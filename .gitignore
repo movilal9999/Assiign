@@ -1,0 +1,6 @@
+frnt/smpl_p/node_modules/
+Backend/env_btr/
+Backend/instance/
+
+*.db
+.env
