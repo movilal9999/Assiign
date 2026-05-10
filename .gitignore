@@ -1,0 +1,25 @@
+# Python backend
+Backend/env_btr/
+Backend/__pycache__/
+Backend/instance/
+*.pyc
+
+# Database
+Backend/*.db
+*.db
+
+# Environment variables
+.env
+
+# Node frontend
+frnt/smpl_p/node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal files
+notes.md

@@ -1,0 +1,27 @@
+# Git
+.git
+.gitignore
+
+# Python
+Backend/env_btr/
+Backend/__pycache__/
+*.pyc
+
+# Node
+frnt/smpl_p/node_modules/
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Personal
+notes.md
+
